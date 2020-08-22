@@ -1,0 +1,57 @@
+.contact{
+  display: flex;
+  justify-content: center;
+  margin: 1%;
+  border: none;
+  padding: 1%;
+}
+
+.person{
+  border: solid;
+  border-color: #3f9b8f;
+  text-align: center;
+}
+
+.person_text{
+  margin: 0px;
+  text-decoration: none;
+}
+
+.contact_header{
+  text-align: center;
+}
+
+.head{
+  width: 40%;
+  margin-bottom: 4%;
+}
+
+.donate{
+  text-align: center;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.contact_article{
+  text-align: center;
+  border: solid;
+  border-color: #3f9b8f;
+  margin: 2%;
+}
+
+.contact_left{
+  flex-grow: none;
+  width: 50%
+}
+
+.contact_right{
+  flex-grow: none;
+  width: 50%;
+}
+
+.contact_one{
+  flex-grow: none;
+  width: 50%;
+}

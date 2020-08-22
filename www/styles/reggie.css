@@ -1,0 +1,299 @@
+.index-content {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px 10px 10px;
+}
+#topnav{
+  margin-top: -11px;
+}
+
+h1 {
+  padding-left: 27px
+}
+
+
+.top-half {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+
+}
+
+.top-left {
+  background-color: #3FAB6D;
+  width: 50%;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 15px;
+
+}
+
+.top-left p {
+  font-family: Impact;
+  font-weight: bold;
+}
+
+.top-left h2 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.top-right{
+  background-color: #81C36C;
+  width:50%;
+  margin-right: 25px;
+  margin-left: 25px;
+  text-align: center;
+  font-size: 50px;
+  border-radius: 15px;
+}
+
+.top-left p{
+  text-align: center;
+}
+
+.top-right div {
+  margin-top: -30px;
+  color: red;
+}
+.top-right p{
+  font-size: 40px;
+  font-weight:bold;
+}
+
+.top-right img {
+  padding-top: 50px;
+  width: 340px;
+  height: 250px;
+}
+
+.bottom-half {
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.bottom-half ul{
+  padding-top: 20px;
+}
+
+.timeline{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom-half h2{
+  text-align:center;
+  font-family: Comic;
+  font-size:30px;
+}
+
+.li{
+  transition: all 200ms ease-in;
+}
+
+.new {
+  background-color: #78c5eb;
+  border-style: solid;
+}
+
+
+.new h4 {
+  text-align: center;
+}
+
+.new a {
+  text-decoration: none;
+}
+.year {
+  margin-bottom:20px;
+  padding: 0px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 100;
+
+}
+
+
+.description {
+  padding: 0px 10px;
+  display: flex;
+  justify-content: center;
+  border-top: 5px solid #f63415;
+  position:relative;
+  transition: all 200ms ease-in;
+
+}
+
+.description h4 {
+  font-weight: 200;
+
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.description:before {
+  content: '';
+  width: 25px;
+  height: 25px;
+  background-color: green;
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  position: absolute;
+  top: -15px;
+  left: 42%;
+  transition: all 200ms ease-in;
+}
+
+@media screen and (min-width: 600px) {
+  #back-home{
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+
+  #back-home h2{
+    font-weight: bold;
+  }
+
+  .top-half{
+    display : block;
+    margin-left: 10%;
+    margin-right: auto;
+  }
+
+
+  .top-left {
+
+    margin-top: 45px;
+    width: 85%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom:35px;
+
+  }
+
+
+  .top-right{
+
+    width: 85%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 15px;
+    margin-bottom: 35px;
+    padding-top: 30px;
+
+  }
+
+
+  .top-right div {
+    margin-top: -30px;
+    color: red;
+  }
+
+  .top-right p{
+    font-size: 30px;
+    font-weight:bold;
+  }
+
+  .top-right img {
+    padding-top: 50px;
+    width: 270px;
+    height: 200px;
+    padding-bottom:25px;
+  }
+
+  .bottom-half {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#AADFEF;
+    margin-bottom:70px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+  }
+
+  .timeline {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+
+  }
+
+  .bottom-half ul{
+    padding-top: 20px;
+    align-items: center;
+    margin-left: -30px ;
+
+  }
+
+  .new {
+    background-color: #84C3BB;
+    border-style: solid;
+  }
+
+
+  .new h4 {
+    text-align: center;
+  }
+
+  .new a {
+    text-decoration: none;
+  }
+  .year {
+    margin-bottom:20px;
+    padding: 0px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 100;
+
+  }
+
+  .project {
+    margin-bottom: 30px;
+  }
+
+
+  .description {
+    padding: 0px 10px;
+    justify-content: center;
+    border-top: 5px solid #f63415;
+    position:relative;
+    transition: all 200ms ease-in;
+
+  }
+
+  .description h4 {
+    font-weight: 200;
+    text-align: center;
+
+  }
+
+  .d .description  {
+    border-bottom: 2.5px solid;
+    border-right: 2.5px solid;
+    border-left: 2.5px solid;
+    border-left-color:#7a7a7a;
+    border-right-color:#7a7a7a;
+    border-bottom-color:#7a7a7a;
+  }
+
+
+
+}

@@ -1,0 +1,90 @@
+CUSD Team information.
+
+
+*** CONTACT PAGE START ***
+Kevin Reigner- director of operations
+Tj Ball- Assisstant director of operations
+Zeyu Hu- Executive Project Director
+Adam Poluka- Executive Project Director
+May Zhou- Executive Project Co-Director
+Kenneth Yeung- Executive Project Director
+Joaquin Jerez- Executive Project Director
+*** END CONTACT PAGE ***
+
+
+CUSD on reaching out:
+"In collaboration with United World Schools (UWS) and Diyalo Foundation, CUSD is improving the architectural design of primary schools to create a sustainable and user friendly environment for education. We will examine the local community, culture, and resources, to fulfill the needs of local students, providing them equal opportunities for education."
+
+CUSD Mission:
+"Challenge students to create dynamic and innovative solutions for economic, social, and ecological difficulties faced by the global community."
+
+Marketing and Communications connects stakeholders, students and members with CUSD through storytelling and experiential marketing, both offline and online.
+
+"We bring inspirations to our audience and bring their passion and insights to search for ways to involve them in our journey to create sustainable impact around the world. We also play a vital role in setting directions for and ensuring consistency in CUSD�s visual identity. We are responsible for communicating our values through recruitment, events, social and partnership. Examples of our projects include redesigning the website, creating a style guide, presenting weekly member�s spotlight and strategizing a fundraising campaign."
+
+Technical Operations supports all of CUSD�s digital resources, both as an organization as a whole, and through each subproject.
+
+"The Technical Operations team (TechOps) is in charge of managing the digital resources of CUSD to better communicate our mission and values. Tech Ops not only oversees our general website, but they also work with our Marketing & Communications team to build web platforms that support our Vertical Teams. These specialized websites enable us to engage with and educate target audiences during outreach events."
+
+
+The Currents project uses intelligent occupancy sensing to control the heating system for academic (single professor) offices. Air conditioning and ventilation make up 53% of energy use in commercial buildings. Using cutting edge technologies including machine learning, smartphone applications, sensors, and wearables we are designing a system that will accurately predict whether a professor is in their office and turn their heating on/off based on this data. Currents applies computer science and electrical engineering skills to develop a system that offers substantial energy savings
+
+Project Tiny Home
+The goal of this project is to create a mobile tiny home with hands-on, interactive exhibits that show the inner workings of energy efficient features, renewable energy, and other home technologies. This tiny home will then be brought to diverse audiences throughout the area to educate them on easy, cost saving techniques they can implement in their homes.
+
+Solarize aims to spark Cornell Grounds� transition to carbon neutrality by replacing traditional energy sources with solar technology.
+
+Our first project involves developing a solar trailer which will provide on-the-go sustainable energy for the maintenance of Cornell's campus. Once this is implemented, we hope to expand our efforts to additional renewable energy projects within Cornell Grounds and the surrounding community.
+
+
+*** ABOUT PAGE ***
+Our Purpose
+Empowering people to make a sustainable impact within their own community.
+
+Our Mission
+Challenge students to create dynamic and innovative solutions for economic, social, and ecological difficulties faced by the global community.
+
+Our Vision
+At CUSD we aim to provide a community in which Cornell students can develop their skills, professionally engage with the real world, and contribute to the development of communities internationally. Our organization is a diverse family of students with one common goal- to impact the global community through holistic sustainability. Through collaboration we create innovative ways to integrate technology and sustainability into community teams in a way that engages the surrounding community.
+
+“LED lightbulbs are 80% more efficient than traditional lighting such as fluorescent and incandescent lights. They have longer life spans, draw less power than traditional lighting, and do not contain toxic elements that would otherwise contaminate the environment once the bulbs are disposed of. Using LED lightbulbs in your home is an easy way to save money, energy and the environment!” - Alex Vompe 💡 #cusdlifehacks #cusd #sustainableliving #sustainability #ledlights #led #energyefficiency
+"When food decomposes in a landfill it's likely that it's undergoing anaerobic breakdown which results in the release of methane (a much more potent greenhouse gas). However, composting allows the scraps to undergo an aerobic decomposition process, which will result in the release of CO2. For this reason, I keep a small container to compost food scraps I may have back at my dorm from cooking, and bring them over to MVR to be composted. Not only can I make a difference, but I also get to be a role model." - Brandon Hoak #sustainableliving #composting #compost #cusdlifehacks #cusd how do YOU promote a sustainable lifestyle? MESSAGE US TO BE FEATURED! 🌎🙏
+“The fashion industry is one of the most polluting industries in the world, just after oil. For this reason, I have been boycotting fast fashion for the past few years. Now I only buy clothing secondhand or from ethical brands. Thrifting is a great way to give clothing that would otherwise end up in a landfill a second life.” - Erika Kane #cusdlifehacks #sustainableliving #sustainablefashion #secondhand #sustainabilitymatters #lifestyle How do YOU promote sustainability in your daily life? Message us if you would like to be featured! 🙌🏻🌎
+*** END ABOUT PAGE ***
+
+
+*** MARKETING AND COMMUNICATIONS PAGE START ***
+Defining the next generation of sustainable design
+Marketing and Communications connects stakeholders, students and members with CUSD through storytelling
+and experiential marketing, both offline and online.
+We bring inspirations to our audience and bring their passion and insights to search for ways to involve
+them in our journey to create sustainable impact around the world. We also play a vital role in setting
+directions for and ensuring consistency in CUSD’s visual identity. We are responsible for communicating
+our
+values through recruitment, events, social and partnership. Examples of our projects include redesigning
+the website, creating a style guide, presenting weekly member’s spotlight and strategizing a fundraising
+campaign.
+multimedia designers: 3
+visual designers: 2
+content curators: 2
+*** MARKETING AND COMMUNICATIONS PAGE END ***
+
+
+*** TECHOPS PAGE START ***
+Developing the digital resources of CUSD
+Technical Operations supports all of CUSD’s digital resources, both as an organization as a whole, and
+through each subproject.
+The Technical Operations team (TechOps) is in charge of managing the digital resources of CUSD to better
+communicate our mission and values. Tech Ops not only oversees our general website, but they also work with
+our Marketing & Communications team to build web platforms that support our Vertical Teams. These
+specialized websites enable us to engage with and educate target audiences during outreach events.
+Total Lines of Code Contributed by Current Members: 2.6M
+*** TECHOPS PAGE END ***
+
+*** RECRUITMENT PAGE ***
+Join Us
+Want to make an impact around the world? Want to get involved in a design-build project? Want to earn credit and hands-on, real-world experience in your field? Join CUSD now!
+
+Pilot Program
+Didn't get a chance to apply to CUSD before the Fall 2018 Recruitment deadline? The CUSD Freshman Pilot Program is an intensive one-semester program that will immerse highly motivated first-year students in the world of CUSD. Once accepted, students will engage in our new member education series to learn background knowledge, leadership ability, and technical skills necessary to contribute to the teams of their choice. The program will transition its recruits to full team members by the end of the fall semester. CUSD invites motivated students from all majors to come to one of our two information sessions to learn more about what we do and how to get involved.
+*** RECRUITMENT PAGE END ***
